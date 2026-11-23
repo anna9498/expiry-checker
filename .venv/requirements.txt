@@ -1,4 +1,0 @@
-rapidocr_onnxruntime
-opencv-python<5
-numpy
-Pillow

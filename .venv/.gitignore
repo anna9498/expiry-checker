@@ -1,0 +1,12 @@
+# 金鑰,絕對不能上傳
+.env
+
+# Python 暫存
+__pycache__/
+*.pyc
+
+# 測試圖片(見下方說明,不想上傳才加)
+*.jpg
+*.jpeg
+*.jfif
+*.png

@@ -1,12 +1,16 @@
-# 金鑰,絕對不能上傳
-.env
 
-# Python 暫存
+# Python 虛擬環境
+.venv/
+venv/
+env/
+
+# Python 暫存檔
 __pycache__/
-*.pyc
+*.py[cod]
 
-# 測試圖片(見下方說明,不想上傳才加)
-*.jpg
-*.jpeg
-*.jfif
-*.png
+# VS Code 設定
+.vscode/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
